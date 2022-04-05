@@ -6,7 +6,7 @@
 
 # base
 Pixel daisyworld is an extension of Daisyworld simulation
-#### [Open `base.ipynb` in Google Colab](base.ipynb)
+#### [Open `base.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/base.ipynb)
 
 # CNN
 Pixel daisyworld is an extension of Daisyworld simulation
