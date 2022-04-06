@@ -1,5 +1,4 @@
 
-
 <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eisbetterthanpi/python/pytorch/blob/master/Autoencoder.ipynb) -->
 
 ## Contents
@@ -15,22 +14,26 @@
 
 
 ## base
-feed forward neural network
+basic feed forward neural network<br />
+classifying FashionMNIST dataset<br />
+flatten image before passing to model with nn.Sequential linear layers
 #### [Open `base.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/base.ipynb)
 
 ## CNN
-convolutional neural network
-
+convolutional neural network with some issues<br />
+classifying FashionMNIST dataset<br />
+model with nn.Conv2d and nn.MaxPool2d followed by a flattened Linear layer
 #### [Open `CNN.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/CNN.ipynb)
 
 ## CNN2
-convolutional neural network
-
+convolutional neural network<br />
+with some issues
 #### [Open `CNN2.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/CNN2.ipynb)
 
 ## CNN3
-convolutional neural network
-
+basic convolutional neural network<br />
+CIFAR10 rgb<br />
+model with nn.Conv2d and nn.MaxPool2d followed by a flattened Linear layer
 #### [Open `CNN3.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/CNN3.ipynb)
 
 
