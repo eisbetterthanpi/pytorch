@@ -1,7 +1,10 @@
 
+Learn Pytorch, from noob to ninja!
+
 <!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eisbetterthanpi/python/pytorch/blob/master/Autoencoder.ipynb) -->
 
 ## Contents
+1. [learn_fn](#learn_fn)
 1. [base](#base)
 2. [CNN](#cnn)
 3. [CNN2](#cnn2)
@@ -11,6 +14,12 @@
 5. [vae](#vae)
 6. [gpt2_archive_uci](#gpt2_archive_uci)
 <!-- 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom) -->
+
+## learn_fn
+basic feed forward neural network<br />
+learn a algebriac function<br />
+nn as function approximators. backprop loss, optimizer step
+#### [Open `base.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/base.ipynb)
 
 
 ## base
@@ -43,7 +52,8 @@ recurrent neural network
 #### [Open `RNN2.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/RNN2.ipynb)
 
 ## Autoencoder
-
+learn to recreate mnist image<br />
+learning rate schedulers(very important!)<br />
 #### [Open `Autoencoder.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/Autoencoder.ipynb)
 
 ## vae
