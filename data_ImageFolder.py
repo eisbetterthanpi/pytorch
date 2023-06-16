@@ -6,7 +6,7 @@ import numpy as np
 
 transform = transforms.Compose([transforms.ToTensor(), transforms.Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))])
 
-dir='/content/gsv70kg'
+dir='/content/...'
 
 data = datasets.ImageFolder(dir, transform=transform)
 # data = datasets.ImageFolder(dir, transform=None)
