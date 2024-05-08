@@ -10,7 +10,7 @@ Learn Pytorch, from noob to ninja!
 4. [RNN2](#rnn2)
 5. [Autoencoder](#autoencoder)
 6. [vae](#vae)
-7. [GAN](#GAN)
+7. [GAN](#gan)
 8. [gpt2_archive_uci](#gpt2_archive_uci)
 <!-- 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom) -->
 
@@ -44,22 +44,38 @@ recurrent neural network
 learn to recreate mnist image<br />
 learning rate schedulers(very important!)<br />
 #### [Open `Autoencoder.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/Autoencoder.ipynb)
+<div align="center">
+  <div>&nbsp;</div>
+  <img src="resources/ae_og.png" width="400"/> 
+  <img src="resources/ae_re.png" width="400"/> 
+</div>
 
 ## vae
 variational autoencoder
 #### [Open `vae.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/vae.ipynb)
+<div align="center">
+  <div>&nbsp;</div>
+  <img src="resources/vae.png" width="400"/> 
+</div>
+
+<!-- 
+[Paper](https://arxiv.org/abs/2312.01479) |
+[Website](https://research.myshell.ai/open-voice) 
+[Video](https://github.com/myshell-ai/OpenVoice/assets/40556743/3cba936f-82bf-476c-9e52-09f0f417bb2f)
+ -->
 
 ## GAN
 Generative Adversarial Network (GAN)
-#### [Open `GAN.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/GAN.ipynb)
+training and generating emojis
+#### [Open `dcgan.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/dcgan.ipynb)
 
 
 ## gpt2_archive_uci
-fine tuning pretrained huggingface gpt2 for classification
+fine tuning pretrained huggingface gpt2 for text classification
 #### [Open `gpt2_archive_uci.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/gpt2_archive_uci.ipynb)
 
 
-
+<!--  -->
 
 If you find this code useful, please credit `eisbetterthanpi`
 <!-- [website](https://github.com/eisbetterthanpi) -->
