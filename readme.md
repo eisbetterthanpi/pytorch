@@ -46,8 +46,9 @@ learning rate schedulers(very important!)<br />
 #### [Open `Autoencoder.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/Autoencoder.ipynb)
 <div align="center">
   <div>&nbsp;</div>
-  <img src="resources/ae_og.png" width="400"/> 
-  <img src="resources/ae_re.png" width="400"/> 
+  <img src="resources/ae_og.png" width="200"/> 
+  <img src="resources/ae_re.png" width="200"/> 
+  <div align="center">original | reconstructed </div>
 </div>
 
 ## vae
@@ -55,7 +56,8 @@ variational autoencoder
 #### [Open `vae.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/vae.ipynb)
 <div align="center">
   <div>&nbsp;</div>
-  <img src="resources/vae.png" width="400"/> 
+  <img src="resources/vae.png" width="400"/>
+  <div align="center">original | reconstructed </div>
 </div>
 
 <!-- 
