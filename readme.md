@@ -61,8 +61,9 @@ model size is significantly smaller than the naive MLP autoencoder<br />
   <img src="resources/og4.png" width="200"/> 
   <img src="resources/convt4.png" width="200"/> 
   <img src="resources/upsample4.png" width="200"/> 
-  <div align="center">original | reconstructed </div>
+  <div align="center">original | conv transpose | conv upsample </div>
 </div>
+two ways of doing deconvolution: nn.ConvTranspose2d and nn.Upsample
 
 ## vae
 variational autoencoder
