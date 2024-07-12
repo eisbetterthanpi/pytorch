@@ -51,6 +51,19 @@ learning rate schedulers(very important!)<br />
   <div align="center">original | reconstructed </div>
 </div>
 
+
+## Convolutional Autoencoder
+learn to recreate mnist image using convolutional autoencoder<br />
+model size is significantly smaller than the naive MLP autoencoder<br />
+#### [Open `conv_autoencoder.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/conv_autoencoder.ipynb)
+<div align="center">
+  <div>&nbsp;</div>
+  <img src="resources/og4.png" width="200"/> 
+  <img src="resources/convt4.png" width="200"/> 
+  <img src="resources/upsample4.png" width="200"/> 
+  <div align="center">original | reconstructed </div>
+</div>
+
 ## vae
 variational autoencoder
 #### [Open `vae.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/vae.ipynb)
