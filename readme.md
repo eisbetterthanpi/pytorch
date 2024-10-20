@@ -85,6 +85,15 @@ Generative Adversarial Network (GAN)
 training and generating emojis
 #### [Open `dcgan.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/dcgan.ipynb)
 
+<div align="center">
+  <div>&nbsp;</div>
+  <img src="resources/gan.jpg" width="200"/> 
+  <img src="resources/gan_arch.png" width="200"/> 
+  <div align="center">original | conv transpose | conv upsample </div>
+</div>
+sthalles.github.io/intro-to-gans/
+
+training on emoji dataset to generate 
 
 ## gpt2_archive_uci
 fine tuning pretrained huggingface gpt2 for text classification
