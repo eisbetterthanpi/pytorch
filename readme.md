@@ -40,6 +40,13 @@ recurrent neural network
 
 #### [Open `RNN2.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/RNN2.ipynb)
 
+<div align="center">
+  <div>&nbsp;</div>
+  <img src="resources/rnn.png" height="200"/>
+  <div align="center">img: dprogrammer.org/rnn-lstm-gru</div>
+</div>
+
+
 ## Autoencoder
 learn to recreate mnist image<br />
 learning rate schedulers(very important!)<br />
@@ -87,11 +94,10 @@ training and generating emojis
 
 <div align="center">
   <div>&nbsp;</div>
-  <img src="resources/gan.jpg" width="200"/> 
-  <img src="resources/gan_arch.png" width="200"/> 
-  <div align="center">original | conv transpose | conv upsample </div>
+  <img src="resources/gan_arch.png" height="200"/> 
+  <img src="resources/gan.jpg" height="200"/> 
+  <div align="center">img: sthalles.github.io/intro-to-gans</div>
 </div>
-sthalles.github.io/intro-to-gans/
 
 training on emoji dataset to generate 
 
@@ -99,6 +105,12 @@ training on emoji dataset to generate
 fine tuning pretrained huggingface gpt2 for text classification
 #### [Open `gpt2_archive_uci.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/gpt2_archive_uci.ipynb)
 
+<div align="center">
+  <div>&nbsp;</div>
+  <img src="resources/gpt_train.png" height="200"/> 
+  <img src="resources/gpt_matrix.png" height="200"/> 
+  <div align="center">img: sthalles.github.io/intro-to-gans</div>
+</div>
 
 <!--  -->
 
